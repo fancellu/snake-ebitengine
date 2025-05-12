@@ -58,7 +58,7 @@ go run .
 
 Set env vars
 ```
-GOARCH=wasm GOOS=js go build -o main.wasm main.go
+GOARCH=wasm GOOS=js go build -o main.wasm
 ```
 
 Creates a `main.wasm` file, copy to web server along with `index.html` and `wasm_exec.js`
