@@ -10,11 +10,7 @@ I am strong believer in monkey see, monkey do
 
 ## Description
 
-This is a modern take on the classic Snake game where players control a snake that grows longer as it consumes food. The game includes special features such as:
-- Particle effects when food disappears
-- Sound effects for game events
-- Progressive difficulty (snake speeds up as it eats)
-- Random food disappearance mechanics
+This is a modern take on the classic Snake game where players control a snake that grows longer as it consumes food. 
 
 ## How to Play
 
@@ -30,6 +26,7 @@ This is a modern take on the classic Snake game where players control a snake th
 
 ### Game Mechanics
 - The snake grows longer each time it eats food (caps at 40 segments)
+- Eat the food to gain 2 points, or use tongue to do it more quickly for 1 points
 - The game speed increases with each food item eaten, making it progressively more challenging
 - Food items may randomly disappear, adding an extra challenge
 - Game ends if the snake collides with walls or itself
@@ -40,7 +37,7 @@ This is a modern take on the classic Snake game where players control a snake th
 - Sound effects for:
 - Food collection
 - Game over events
-- Dynamic difficulty scaling
+- Progressive difficulty (snake speeds up as it eats)
 - Random food disappearance mechanics
 
 ## To run
